@@ -12,7 +12,7 @@ jQuery.fn.distanceFrom = function($to) {
 
 	var dx = pTo.left - pFrom.left;
 	var dy = pTo.top  - pFrom.top;
-	distance = Math.sqrt(dx*dx + dy*dy);
+	var distance = Math.sqrt(dx*dx + dy*dy);
 	return distance;
 };
 
