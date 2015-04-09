@@ -1,3 +1,9 @@
+/*
+ * By TAKANASHI Ginpei
+ * MIT License
+ * https://github.com/ginpei/jquery.distanceFrom.js
+ */
+
 jQuery.fn.distanceFrom = function($to) {
 	var $from = this;
 

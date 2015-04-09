@@ -1,10 +1,12 @@
 # jQuery.distanceFrom
 
-Get distance from anothor element.
+Get distance from an othor element.
 
 See also:
 
 * [Pythagorean theorem - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Pythagorean_theorem)
+
+(You should mind performance to use.)
 
 ## Usage
 
